@@ -12,7 +12,7 @@ h1 {
 }
 
 .black {
-    background: #660066;
+    background: #004166;
 }
 
 .navbar a {
@@ -30,4 +30,44 @@ hr {
 
 .white {
     border: white 1px solid;
+}
+
+.fondo {
+    background: #004166;
+    background-size: cover;
+}
+
+.azul {
+    background: #004166;
+}
+
+.iconss {
+    width: 30px
+}
+
+.nombre {
+    font-family: 'Oswald', 'Bold';
+}
+
+.contactoh2 {
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 300%;
+}
+
+.modal-title {
+    font-family: 'Dancing Script', cursive;
+    font-size: 200%;
+    padding-left: 32%
+}
+
+.p {
+    font-family: 'Delius', cursive;
+}
+
+.text-white {
+    font-size: 400%;
+}
+
+.nombre {
+    font-family: 'Rochester', cursive;
 }
