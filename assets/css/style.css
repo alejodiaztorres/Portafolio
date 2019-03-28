@@ -64,8 +64,9 @@ hr {
     font-family: 'Delius', cursive;
 }
 
-.text-white {
+.text-whiteyo {
     font-size: 400%;
+    color: white;
 }
 
 .nombre {
